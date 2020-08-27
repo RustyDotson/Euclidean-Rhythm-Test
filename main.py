@@ -10,7 +10,7 @@ def get_beat_size():
     numNotes = -1
     barSize = -1
     while numNotes < 0:
-        numNotes = int(input("input the amount of beats you want in the bar (Max of 16):"))
+        numNotes = int(input("input the amount of beats you want in the bar:"))
     while barSize < 0:
         barSize = int(input("input the size of notes to use (ex. 16 = 16th notes):"))
     return numNotes, barSize
