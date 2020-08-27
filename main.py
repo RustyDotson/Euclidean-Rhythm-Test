@@ -1,9 +1,12 @@
-############################################
+###############################################################
+# All code written by Rusty Dotson
+#
 # Test file for creating a visual representation
 # of a Euclidean Rhythm from a list
 #
-# All code Written by Rusty Dotson
-############################################
+# More information about Euclidean Rhythms
+# at http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf
+###############################################################
 
 
 def get_beat_size():
